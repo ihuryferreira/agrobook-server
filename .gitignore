@@ -1,0 +1,41 @@
+# Arquivos de compilação
+dist/
+build/
+
+# Logs
+*.log
+
+# Arquivos temporários
+.tmp/
+.DS_Store
+
+# Arquivos de configuração específicos do ambiente
+.env
+.env.local
+
+# Dependências específicas de IDEs
+.idea/
+.vscode/
+
+# Arquivos de cache e histórico de comandos
+.npm/
+.yarn/
+
+# Arquivos de saída do editor
+*.swp
+
+# Arquivos de configuração do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de registro
+*.log
+
+# Arquivos de backup
+*~
+
+# Arquivos de cache adicionais
+.cache/
+
+# Pasta de dependências do Node.js
+node_modules/

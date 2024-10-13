@@ -1,0 +1,8 @@
+Para iniciar instale os seguintes pacotes
+npm i moment // gerenciar timastamp em formato humano
+npm i twix // gerenciar timastamp em formato humano
+npm i mongodb // gerencia a conexao com o banco de dados
+npm i cpf-cnpj-validator // gerencia valores de entrada como documento
+npm i email-validator // valida entrada do tipo email
+npm i jest // biblioteca para realizar testes unitarios
+npm install bson // para formatar json no formato aceito para o mongodb
